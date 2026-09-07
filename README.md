@@ -19,7 +19,7 @@ A simple card component displaying a QR code, built as my first Frontend Mentor 
 ### Links
 
 - Solution URL: [Github](https://github.com/Adedayo-Data/QR-code-componenet)
-- Live Site URL: [QR code](https://your-live-site-url.com)
+- Live Site URL: [QR code](https://adedayo-data.github.io/QR-code-componenet/)
 
 ## My process
 
